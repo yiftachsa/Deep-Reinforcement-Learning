@@ -13,7 +13,7 @@ This repository contains the tasks created as part of the Deep Reinforcement Lea
 ---
 ## Assignments
 <p float="left">
-  <img src="Media/ass2_2.png" width=45% />
+  <img src="Media/ass2_2.png" width=42% />
   <img src="Media/ass1_4.png" width=18% />
   <img src="Media/out-1.webp" width=36% /> 
 </p>
