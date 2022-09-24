@@ -13,13 +13,9 @@ This repository contains the tasks created as part of the Deep Reinforcement Lea
 ---
 ## Assignments
 <p float="left">
-  <img src="Media/ass1.png" width=36% />
-  <img src="Media/ass8.png" width=26% />
-  <img src="Media/ass10.png" width=36% /> 
-  <img src="Media/ass7_2.png" width=26% />
-  <img src="Media/ass6.png" width=19% /> 
-  <img src="Media/ass8_2.png" width=30% />
-  <img src="Media/ass4_2.png" width=23% />
+  <img src="Media/ass2_2.png" width=45% />
+  <img src="Media/ass1_4.png" width=18% />
+  <img src="Media/out-1.webp" width=36% /> 
 </p>
 
 [Assignment 1](Assignments/DRL_DQN_hw1.ipynb) – **From Q-learning to Deep Q-learning (DQN).** Experiment with OpenAI Gym, a testbed for Reinforcement Learning algorithms containing environments in different difficulty levels. the first part is an implementation of a tabular Q-learning model in a simple environment. The second part is on a larger scale environment and uses a NN function approximator of the Q-value, using the basic DQN algorithm. Finally, improvement to the DQN algorithm is implemented with one of the state-of-the-art algorithms from recent years. We implemented the Stochastic Prioritized Experience Replay improvement. This method aims to increase the effectiveness of using an experience buffer. Stochastic Prioritized Experience Replay replays the experiences which lead to larger TD error values with greater probability than experiences that lead to smaller TD error values.
