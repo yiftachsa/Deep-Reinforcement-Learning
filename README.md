@@ -25,6 +25,7 @@ This repository contains the tasks created as part of the Deep Reinforcement Lea
 
 [Assignment 3 parts 1&2](Assignments/DRL_Ass3_keras_sec_1_sec_2.ipynb) | [Assignment 3 parts 3](Assignments/DRL_Ass3_keras_sec_3.ipynb)- **Meta and Transfer Learning.** In this assignment, we design a reinforcement learning algorithm that leverages prior experience to figure out how to solve new tasks quickly. In recent literature, such methods are referred to as meta-reinforcement learning. Deep reinforcement learning algorithms usually require a large number of trials. Traditionally, learning a new task entails re-collecting a large dataset and training from scratch. Intuitively, knowledge gained in learning one task should help to learn new, related tasks more quickly.
 
+
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
